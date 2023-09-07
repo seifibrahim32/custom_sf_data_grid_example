@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236764716905",
+    "project_id": "grid-93fd5",
+    "storage_bucket": "grid-93fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236764716905:android:4dd897aa7eda18629667f8",
+        "android_client_info": {
+          "package_name": "com.example.grid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236764716905-b0jdhson5pq0j972r7tnlu6l9m1s70on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz44fb_Aw7pMdAsxsc-0uv-HyV1pzmFok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236764716905-b0jdhson5pq0j972r7tnlu6l9m1s70on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
